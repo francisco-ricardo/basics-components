@@ -1,10 +1,10 @@
-import { NewCliPage } from './app.po';
+import { BasicsComponentsPage } from './app.po';
 
-describe('new-cli App', () => {
-  let page: NewCliPage;
+describe('basics-components App', () => {
+  let page: BasicsComponentsPage;
 
   beforeEach(() => {
-    page = new NewCliPage();
+    page = new BasicsComponentsPage();
   });
 
   it('should display message saying app works', () => {

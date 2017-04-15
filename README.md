@@ -1,4 +1,6 @@
-# Teste
+# Basics Components
+
+Code for section 2 (2-12) Angular 4 Course from Udemy.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
